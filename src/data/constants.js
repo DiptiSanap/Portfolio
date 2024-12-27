@@ -219,7 +219,7 @@ export const experiences = [
       "Image classification",
       "Transfer learning",
     ],
-    doc: "https://media.licdn.com/dms/image/D5622AQESsZT6wwa3Bw/feedshare-shrink_800/0/1690542351000?e=1717027200&v=beta&t=568b2bcgik3e1P5mN14ARgVN_LjzbaTqIZ05v_Rt0X8",
+    doc: "",
   },
   {
     id: 1,
