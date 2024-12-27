@@ -1,14 +1,14 @@
 export const Bio = {
   name: "Dipti Sanap",
   roles: [
-    "Machine Learning Engineer"
+    "Data Analyst"
 
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/DiptiSanap",
   resume:
-    "https://drive.google.com/file/d/16vpu9PAmjtQiDe1uCuMGI3reJwd7Lv2A/view?usp=sharing",
+    "https://drive.google.com/file/d/1XY9ph7tEwjfsODXmVhSh_aA9qVLI2zS4/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/diptirs01/",
   email:"diptisanap1999@gmail.com"
 };
@@ -160,11 +160,34 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://halalstock.in/wp-content/uploads/2024/11/Sagility-India-Logo1.jpg",
+    role: "Data Analyst",
+    company: "Sagility India Ltd.",
+    date: "June 2023 - Present",
+    desc:"As a Data Analyst, I specialize in harnessing advanced technologies to deliver impactful insights and solutions. My expertise lies in Python programming, with a strong focus on Data Science. I am also keenly invested in exploring the evolving landscape of LLMs and Generative AI, driven by a passion for innovation and creativity. My work reflects a commitment to pushing the limits of data-driven strategies and leveraging AI to uncover new possibilities.",
+    skills: [
+      "Python",
+      "Exploratory Data Analysis",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Flask",
+      "Web Scrapping",
+      "Generative AI",
+      "Docker",
+      "AWS",
+      "SQL",
+      "JavaScript"
+    ],
+    doc: "",
+  },
+  {
+    id: 0,
     img: "https://media.licdn.com/dms/image/C4E0BAQHeyO0PA8bqkQ/company-logo_200_200/0/1634118458289/hurrey_logo?e=2147483647&v=beta&t=WkRUCdcV5fsniO0uo5t2a6SPhJsQ3CRLRBSKlWXqbDc",
     role: "Machine Learning Engineer",
     company: "Hurrey Tech Ventures Pvt. Ltd.",
-    date: "Aug 2023 - Present",
-    desc: "As a Machine Learning Engineer, I play a pivotal role in leveraging cutting-edge technologies to drive innovative solutions. With a focus on Python programming, my expertise extends across Machine Learning (ML) and Natural Language Processing (NLP) domains. My passion for exploring the frontiers of AI extends to the fascinating realm of Generative AI. I am deeply curious and highly interested in pushing the boundaries of creativity and innovation through generative models. ",
+    date: "Aug 2023 - June 23",
+    desc: "As a Machine Learning Engineer, I played a pivotal role in leveraging cutting-edge technologies to drive innovative solutions. With a focus on Python programming, my expertise extends across Machine Learning (ML) and Natural Language Processing (NLP) domains. My passion for exploring the frontiers of AI extends to the fascinating realm of Generative AI. I am deeply curious and highly interested in pushing the boundaries of creativity and innovation through generative models. ",
     skills: [
       "Python",
       "Exploratory Data Analysis",
